@@ -2,3 +2,8 @@ Hey guys! All you have to do is npm install and ng build and ng serve. I'm sorry
 
 
 Ryan
+
+
+Well go ahead, take another two hours and make it hire worthy.
+
+George
